@@ -1,0 +1,1 @@
+Welcome To Login System<?php /**PATH C:\xampp\htdocs\apps\resources\views/login.blade.php ENDPATH**/ ?>
